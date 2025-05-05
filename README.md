@@ -1,0 +1,2 @@
+# Grammer-Score-Engine-for-Voice-Sample-By-using-Machine-Learning
+This repository contains a Grammar Voice Scoring Engine that evaluates spoken language for grammatical correctness. Built using Whisper, LanguageTool, spaCy, and T5, the system analyzes voice samples, identifies grammatical errors, and provides a structured scoring mechanism based on error severity. Features: - Speech-to-text conversion 
